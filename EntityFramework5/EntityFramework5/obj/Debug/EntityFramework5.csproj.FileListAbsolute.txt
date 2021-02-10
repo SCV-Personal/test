@@ -1,0 +1,15 @@
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\bin\Debug\EntityFramework5.exe.config
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\bin\Debug\EntityFramework5.exe
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\bin\Debug\EntityFramework5.pdb
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\bin\Debug\EntityFramework.dll
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\bin\Debug\EntityFramework.xml
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\obj\Debug\EntityFramework5.csprojAssemblyReference.cache
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\obj\Debug\EntityFramework5.Form1.resources
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\obj\Debug\EntityFramework5.Properties.Resources.resources
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\obj\Debug\EntityFramework5.csproj.GenerateResource.cache
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\obj\Debug\EntityFramework5.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\obj\Debug\EntityFramework5.csproj.CopyComplete
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\obj\Debug\EntityFramework5.exe
+C:\Users\brand\Desktop\c#\EntityFramework5\EntityFramework5\obj\Debug\EntityFramework5.pdb
